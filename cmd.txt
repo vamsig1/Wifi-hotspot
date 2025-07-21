@@ -1,1 +1,2 @@
 netsh wlan set hostednetwork mode=allow ssid=YourSSID key=YourPassword
+https://shortcutsystems.blogspot.com/2022/05/appreciation-from-microsoft-tech.html
